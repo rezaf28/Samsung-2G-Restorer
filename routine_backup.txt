@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><DeviceConfiguration>
+<GeneralInfo>
+<Version>2.0</Version>
+<BuildNum>TEST DUMMY Info</BuildNum>
+<DeviceType>phone</DeviceType>
+<CreatedTime>2025-10-08 16:43:35.579</CreatedTime>
+<InitialOsVersion>28</InitialOsVersion>
+</GeneralInfo>
+<BackupDataSet>
+<BackupData>
+<Routine>
+<Common>
+<RoutineBackupVersion>4.8.07.1</RoutineBackupVersion>
+</Common>
+<Setting>
+<RoutineServiceEnable>true</RoutineServiceEnable>
+</Setting>
+<Preference>
+<ShowRoutineIcon>true</ShowRoutineIcon>
+<RoutineDeclineMsg/>
+<IconColorOrder/>
+<IsPreaddedItem/>
+<MainTapIndex>1</MainTapIndex>
+</Preference>
+<Item>
+<RoutineItemList>[{"_uuid":3322164254279814657,"is_running":true,"name":"Mobile data","routine_extra":"norecovery;routine_saved_entrance_from&amp;settings;state&amp;0;command_triggered_time&amp;1759929185452","toggle_time":1759929185456,"attributes":"","preset_image":0,"preset_bg_start_color":0,"preset_bg_end_color":0,"is_manual_routine":false,"tag":"","is_show_notification":1,"is_favorite_routine":false,"icon":0,"color":-14239591},{"_uuid":8814698207093998525,"is_running":true,"name":"Mobile data 2","routine_extra":"norecovery;routine_saved_entrance_from&amp;settings;state&amp;0;command_triggered_time&amp;1759929178336","toggle_time":1759929178341,"attributes":"","preset_image":0,"preset_bg_start_color":0,"preset_bg_end_color":0,"is_manual_routine":false,"is_show_notification":1,"is_favorite_routine":false,"icon":0,"color":-11163198}]&amp;&amp;[{"_uuid":5054996481440498659,"package":"com.samsung.android.app.routines","condition_tag":"mobile_data","label_params":"Off","intent_param":"{\"mobile_data_toggle\":\"{\\\"TYPE\\\":\\\"BOOLEAN\\\",\\\"VALUE\\\":\\\"false\\\"}\"}","is_enabled":2,"is_negative":-1,"timestamp":1759929185444,"condition_instance_extra":"","_id":0,"routine_name_id":"Mobile data","routine_uuid":3322164254279814657},{"_uuid":4919614746266454284,"package":"com.samsung.android.app.routines","condition_tag":"manual_execute","label_params":"null","intent_param":"{}","is_enabled":0,"is_negative":0,"timestamp":0,"condition_instance_extra":"","_id":0,"routine_name_id":"Sleep","routine_uuid":100},{"_uuid":3091865437144499132,"package":"com.samsung.android.app.routines","condition_tag":"mobile_data","label_params":"On","intent_param":"{\"mobile_data_toggle\":\"{\\\"TYPE\\\":\\\"BOOLEAN\\\",\\\"VALUE\\\":\\\"true\\\"}\"}","is_enabled":0,"is_negative":-1,"timestamp":1759929186216,"condition_instance_extra":"","_id":0,"routine_name_id":"Mobile data 2","routine_uuid":8814698207093998525}]&amp;&amp;[{"_id":0,"_uuid":6782658553945146079,"package":"com.samsung.android.app.routines","action_tag":"mobile_network_mode_setting_v3","label_params":"2G only","intent_param":"{\"network_mode_value\":\"{\\\"TYPE\\\":\\\"STRING\\\",\\\"VALUE\\\":\\\"1\\\"}\",\"network_name\":\"{\\\"TYPE\\\":\\\"STRING\\\",\\\"VALUE\\\":\\\"2G only\\\"}\"}","is_negative":-1,"timestamp":0,"action_instance_extra":"OVERLAPPING_COUNT&amp;1;ORDERING_INDEX&amp;0;PERFORM_ACTION_RESULT&amp;1","routine_name_id":"Mobile data","routine_uuid":3322164254279814657},{"_id":0,"_uuid":8655711509088584490,"package":"com.samsung.android.app.routines","action_tag":"wear|aod","label_params":"null","intent_param":"{\"toggle_value\":\"{\\\"TYPE\\\":\\\"BOOLEAN\\\",\\\"VALUE\\\":\\\"false\\\"}\"}","is_negative":0,"timestamp":0,"action_instance_extra":"ORDERING_INDEX&amp;0","routine_name_id":"Sleep","routine_uuid":100},{"_id":0,"_uuid":817324011680317490,"package":"com.samsung.android.app.routines","action_tag":"wear|wake_on_wrist_up","label_params":"null","intent_param":"{\"toggle_value\":\"{\\\"TYPE\\\":\\\"BOOLEAN\\\",\\\"VALUE\\\":\\\"false\\\"}\"}","is_negative":0,"timestamp":0,"action_instance_extra":"ORDERING_INDEX&amp;1","routine_name_id":"Sleep","routine_uuid":100},{"_id":0,"_uuid":4308202768721594145,"package":"com.samsung.android.app.routines","action_tag":"wear|wake_on_touch_screen","label_params":"null","intent_param":"{\"toggle_value\":\"{\\\"TYPE\\\":\\\"BOOLEAN\\\",\\\"VALUE\\\":\\\"false\\\"}\"}","is_negative":0,"timestamp":0,"action_instance_extra":"ORDERING_INDEX&amp;2","routine_name_id":"Sleep","routine_uuid":100},{"_id":0,"_uuid":3511108638200252838,"package":"com.samsung.android.app.routines","action_tag":"wear|sound_mode","label_params":"null","intent_param":"{\"KEY_SELECTED_SOUND_MODE_TYPE\":\"{\\\"TYPE\\\":\\\"STRING\\\",\\\"VALUE\\\":\\\"vibration\\\"}\"}","is_negative":0,"timestamp":0,"action_instance_extra":"ORDERING_INDEX&amp;3","routine_name_id":"Sleep","routine_uuid":100},{"_id":0,"_uuid":5453730763775689616,"package":"com.samsung.android.app.routines","action_tag":"mobile_network_mode_setting_v3","label_params":"5G preferred","intent_param":"{\"network_mode_value\":\"{\\\"TYPE\\\":\\\"STRING\\\",\\\"VALUE\\\":\\\"26\\\"}\",\"network_name\":\"{\\\"TYPE\\\":\\\"STRING\\\",\\\"VALUE\\\":\\\"5G preferred\\\"}\"}","is_negative":-1,"timestamp":0,"action_instance_extra":"OVERLAPPING_COUNT&amp;1;ORDERING_INDEX&amp;0;PERFORM_ACTION_RESULT&amp;1","routine_name_id":"Mobile data 2","routine_uuid":8814698207093998525}]</RoutineItemList>
+<RecommendTagList>{}</RecommendTagList>
+<RoutineModeItems compressedEternalItems="value,">H4sIAAAAAAAA/8WUX2/aMBTFv4ufMxboVlXsKSPeGi0kFYRtbJksk1zAqmMj/4EixnefnSDWMamPNE/OiX1zfsf2PSDOlqDNnsNY1pAYaDQa/jwgWhkmRTeGJ6MoGqJ8EuNJkn0mSRbj76UNw8FtiAK0odUjXUFGG3CzKtn0NG20FaseFbWSrO7RzaanpDVMgG4XKDfXgErpArhbIyznTldQyS2ovVOMsuAUQ1fuZQdU/aaydoL7rJ0xNAyflXE2D8jI1YoD2VJuvY1DiYr5Ay7RsEQf8zzFUVaioERfo3TWqUvKNZToiI7H4GXI/tUgd/QRiBRkp5g2xG5ei3hwdWIjbbUmulIA4rWob65GraUVNWnclXuR9QuekylO8ajAMZnmsywm4zzGxBNfsE8LT3OBvmULRf1F7vB/BQ5I1Oz/q30N8IYKSzmBJ6is+Ye7f8HdOj39KRFL6aOgxii2cAt1B272G2gZzw2sjdODBmcsbaiBU6P6MMlnRZJh8i0qRvckGhVJnpFP+aSLNMmSIonS5Ic/E/dRFqc4dpVY5Q0O3nWjlO6dq5HkUqHhm/4gvHl/Gzr3TGNBFxxqNPTIXhi3tJMO4q+ci3y5PKvt0fTydC13mTRsyap2v9pMRLcVUw7gG4Gu1lBbDljUBWtOZ9+4kavmkhjc3YX+CZ5lM8uKJCXTIn8g4yibRWk67wI67YgL7O0Cal/EidYyB9APQ5f/8Q8a/kdVGgYAAA==</RoutineModeItems>
+<AppWidgets>{}</AppWidgets>
+<AppGroupWidgets data_version="1">{"routine_group_widget_data":[]}</AppGroupWidgets>
+<WidgetAttributes dataVersion="1" compressedEternalItems="value,">H4sIAAAAAAAA/6tWKs7MS89JDc9MSU8t8cksLlGyio6tBQB7pqjYFwAAAA==</WidgetAttributes>
+<SearchHistory dataVersion="1" compressedEternalItems="value,">H4sIAAAAAAAA/6tWSkxJiS/KLy3JzEuNL05NLErOiM/ILC7JL6pUslKqrlXSUcpNzMzDKlULANOs3tc+AAAA</SearchHistory>
+<RoutineModeItemsOrder dataVersion="H4sIAAAAAAAA/zMEALfv3IMBAAAA" compressedEternalItems="value,dataVersion,">H4sIAAAAAAAA/4tWqo5Ryi9KSS2KUbKytLTUiVEqLc1MAXIMDQxqlXSQpYEiBsjyppjyhsjyhpjyRsjyRpjyxsjyxpjyJsjyJpjypsjyZrVKsQDTjLJa4AAAAA==</RoutineModeItemsOrder>
+</Item>
+</Routine>
+</BackupData>
+</BackupDataSet>
+</DeviceConfiguration>
